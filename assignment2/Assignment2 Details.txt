@@ -1,0 +1,5 @@
+ASSIGNMENT 2: given on the basis of class dated: 17-02-23 (8th class)
+
+submit with GitHub Link:
+=> Complete any CRUD project that must have CREATE, READ, UPDATE, DELETE using PHP PDO
+=> Or you can complete the project (AT LEAST) that is done in class. Last Date of submission: 10 MARCH 2023
